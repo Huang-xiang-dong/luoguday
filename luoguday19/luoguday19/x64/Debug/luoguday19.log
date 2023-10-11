@@ -1,0 +1,5 @@
+﻿  19.cpp
+C:\Users\Lenovo\source\repos\luoguday19\luoguday19\19.cpp(27,9): warning C4101: “m”: 未引用的局部变量
+C:\Users\Lenovo\source\repos\luoguday19\luoguday19\19.cpp(27,6): warning C4101: “p”: 未引用的局部变量
+C:\Users\Lenovo\source\repos\luoguday19\luoguday19\19.cpp(27,12): warning C4101: “g”: 未引用的局部变量
+  luoguday19.vcxproj -> C:\Users\Lenovo\source\repos\luoguday19\x64\Debug\luoguday19.exe
